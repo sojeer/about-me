@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sojeer
+- 👀 I’m interested in UI/UX and Frontend development
+- 🌱 I’m currently continually learning Javascript
+- 💞️ I’m looking to collaborate on ... would be happy to dive into any frontend project now
+- 📫 How to reach me: expa.ie
